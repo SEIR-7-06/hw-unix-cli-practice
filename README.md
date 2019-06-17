@@ -2,7 +2,7 @@
 
 #  Homework: Unix CLI Practice
 
-Class: **wdi-cc**<br>
+Class: **SEI**<br>
 Creator: Thom Page <br>
 Modified by: Kristyn Bryan and Reuben Ayres <br>
 Topics: Terminal, boolean expressions, reading code, while loops, for loops <br>
