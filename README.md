@@ -176,4 +176,4 @@ Want an extra challenge?  In many assignments or labs, you'll find a "Hungry for
 
 # Homework submission
 
-When you've got your homework all done, just send a Slack message to your instructor.  Going forward, we will be submitting homework using a "pull request" process in git.  Your instructor will show you the submission process first thing in the morning.
+When you've got your homework all done, just send a Slack message to your instructor.  Going forward, we will be submitting homework using a "pull request" process in git.  Your instructor will show you the submission process tomorrow afternoon.
