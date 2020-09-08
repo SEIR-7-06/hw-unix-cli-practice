@@ -24,7 +24,7 @@ Fundamentals, class, or that you find on your own.
 
 * Open the **Terminal app**
 
-* Make a directory in the folder created by this clone called `star_wars`.  
+* Create a new directory in your `sei/fundamentals` directory called `star_wars`.  
 
 * Create a file called `commands.txt`.
 
